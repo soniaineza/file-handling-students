@@ -1,0 +1,6 @@
+Car Model: Tesla Model S
+Color: Red
+Year: 2022
+Description: A fully electric luxury sedan with impressive performance.
+Owner: John Doe
+Mileage: 15,000 miles
